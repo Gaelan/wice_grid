@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
   s.date          = '2015-11-28'
 
-  s.add_dependency 'activerecord',      ['> 3.2']
+  s.add_dependency 'activerecord',      ['5.0.0.beta2']
   s.add_dependency 'kaminari',          ['~> 0.16']
   s.add_dependency 'coffee-rails',      ['> 3.2']
 
